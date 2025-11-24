@@ -9,7 +9,6 @@
 - [itsycal](https://www.mowglii.com/itsycal/) Your calendar in the menubar! Awesome!
 - [Browserosaurus](https://browserosaurus.com/) The browser prompter for Mac.
 - [Tyke](https://tyke.app/) Notes in your menubar.
-- [Franz](https://meetfranz.com) Franz is the app for all your messaging services.
 - [Station](https://getstation.com) All your web services in one app. (Free for personal use)
 
 ### File management
@@ -19,6 +18,9 @@
 - [Forklift](https://binarynights.com) Advanced dual pane file manager. (There's no time limit in trial mode!)
 - [EasyFind](https://www.devontechnologies.com/products/freeware.html) Find any file easily, even on a server! Beware it's fast!
 - [QuickLock](https://github.com/orwhat-cc/quicklock) Lock your Mac quickly, mind your privacy!
+- [QLCodec](https://github.com/Oil3/QLCodec) Quick Look support webm, mkv and other special video formats!
+- [QLMarkdown](https://github.com/sbarex/QLMarkdown) Quick Look support for Markdown files
+
 
 ### Network
 - [Gas Mask](https://github.com/2ndalpha/gasmask) The only host manager you need.
@@ -49,7 +51,6 @@
 - [MTMR](https://github.com/toxblh/MTMR) The Touch Bar Customisation App for your MacBook Pro.
 
 ### Text Editor
-- [Atom](https://github.com/atom/atom) Atom is a hackable text editor for the 21st century, built on Electron.
 - [Notable](https://github.com/notable/notable/blob/master/README.md) "The markdown-based note-taking app that doesn't suck."
 - [Visual Studio](https://code.visualstudio.com) Code editing, redefined. From Microsoft!
 
@@ -64,7 +65,6 @@
 ### iPhone & iOS
 - [iFunbox](http://www.i-funbox.com) File and App Management Tool for iPhone, iPad & iPod Touch.
 - [HEIC Converter](https://imazing.com/heic) Let's you convert iOS new photo format to JPG.
-- 
 
 ---
 
